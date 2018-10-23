@@ -1,6 +1,6 @@
 # AZ Lyrics Web scraping
 
-The azlyrics.py file is a library/package you can import into your jupyter notebook to extract artist and lyrics data.
+The azlyrics.py file is a file you can import into your jupyter notebook to extract artist and lyrics data.
 
 Please do not misuse these files. This is a demonstration of how to do web scraping and use Beautiful Soup. Please do not use it to make calls for artistis with more than 10 songs. (see below to see which artists to use this for)
 
